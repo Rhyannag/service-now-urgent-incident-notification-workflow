@@ -35,7 +35,7 @@ These updates align with ServiceNow’s Priority Lookup rules and ensure the flo
 
 ## Architecture Diagram  
 
-[![P1 Incident Network Notification System Architecture](Diagram.png)](Diagram.png)
+[![P1 Incident Network Notification System Architecture](P1 Incident Network Notification System Architecture.drawio.png)
 
 
 ## AI Scenario  
