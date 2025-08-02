@@ -34,7 +34,9 @@ These updates align with ServiceNow’s Priority Lookup rules and ensure the flo
 - **Testing and Validation:** Created multiple test incidents meeting the new criteria. I confirmed that emails were generated in the sys_email table and verified that the Network Operations team received them, saw the correct assignment group, and had access to work the cases.  
 
 ## Architecture Diagram  
-![Incident Notification Workflow](Diagram.png)  
+
+[![P1 Incident Network Notification System Architecture](Diagram.png)](Diagram.png)
+
 
 ## AI Scenario  
 An AI agent could enhance this workflow by working alongside ServiceNow’s **Automatic Work Assignment (AWA)** feature. While AWA already assigns incidents based on availability and skills, AI could extend its capabilities. For example, the agent could be prompted to analyze historical resolution patterns by scanning past incidents with similar categories, priorities, and keywords. This would allow the system to recommend the best responder based not only on skills but also on proven past performance.  
