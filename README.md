@@ -32,7 +32,7 @@ To fix this, I made the following changes:
 
 ## Architecture Diagram  
 
-[![P1 Incident Network Notification System Architecture](Diagram.png%20(Draw.io%20architecture%20diagram))
+[![P1 Incident Network Notification System Architecture](Diagram.png)](Diagram.png)
 
 
 ## AI Scenario  
